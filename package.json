@@ -1,0 +1,27 @@
+{
+  "name": "telbot",
+  "version": "1.0.0",
+  "description": "agent help bot for tp microsoft",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./src/index.js",
+    "start": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaksYig/JsBotMic.git"
+  },
+  "author": "maksyDev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaksYig/JsBotMic/issues"
+  },
+  "homepage": "https://github.com/MaksYig/JsBotMic#readme",
+  "dependencies": {
+    "mongoose": "^5.10.9",
+    "node-telegram-bot-api": "^0.50.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}

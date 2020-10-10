@@ -1,0 +1,97 @@
+{
+  "allanswers": [
+    {
+      "uuid": "wi001",
+      "name": "Installation media to reinstall Windows 10",
+      "text": "Use this guide to to create installation media to reinstall Windows 10 ",
+      "type": "WindowsInstall",
+      "link": "https://support.microsoft.com/en-us/help/4000735/windows-10-reinstall",
+      "picture": ""
+    },
+    {
+      "uuid": "wi002",
+      "name": "Clean install of Windows 10 using installation media",
+      "text": "Use this guide Clean install of Windows 10 using installation media",
+      "type": "WindowsInstall",
+      "link": "https://techloris.com/how-to-reinstall-windows-10/",
+      "picture": "https://cdn.techloris.com/app/uploads/2018/10/windows-setup.jpg"
+    },
+    {
+      "uuid": "wi003",
+      "name": "Reset Your Windows 10",
+      "text": "Use this guide to reset Windows 10 PC",
+      "type": "WindowsInstall",
+      "link": "https://www.laptopmag.com/articles/reset-windows-10-pc",
+      "picture": "https://cdn.mos.cms.futurecdn.net/33MTgeSozRExATEGdWS3Xj-970-80.png"
+    },
+
+    {
+      "uuid": "wu001",
+      "name": "Troubleshoot problems updating Windows 10",
+      "text": "Troubleshoot problems updating Windows 10",
+      "type": "WindowsUpdate",
+      "link": "https://support.microsoft.com/en-us/help/4089834/windows-10-troubleshoot-problems-updating?ocid=20SMC10164Windows10",
+      "picture": "https://www.howtogeek.com/wp-content/uploads/2018/06/img_5b2d86d471d92.png.pagespeed.ce.3EHOvQPANw.png"
+    },
+    {
+      "uuid": "oo001",
+      "name": "How to Manually Configure Office 365 Account in Outlook",
+      "text": "Guide How to Manually Configure Office 365 Account in Outlook",
+      "type": "OfficeOutlook",
+      "link": "https://www.datarepairtools.com/blog/configure-office-365-in-outlook-manually/",
+      "picture": "https://www.datarepairtools.com/blog/wp-content/uploads/2019/05/configure-office-365-in-outlook-05.png"
+    },
+    {
+      "uuid": "oo002",
+      "name": "Change or update email account settings in Outlook",
+      "text": "Change or update email account settings in Outlook",
+      "type": "OfficeOutlook",
+      "link": "https://support.microsoft.com/en-us/office/change-or-update-email-account-settings-in-outlook-for-windows-560a9065-3c3a-4ec5-a24f-cdb9a8d622a2",
+      "picture": "https://support.content.office.net/en-us/media/d47a36bf-f7c7-468f-9d8d-b1e331d7587f.png"
+    },
+    {
+      "uuid": "oi001",
+      "name": "Online guide for Office Install",
+      "text": "Download and install or reinstall Microsoft 365 or Office 2019 on a PC or Mac",
+      "type": "OfficeInstall",
+      "link": "https://support.microsoft.com/en-us/office/download-and-install-or-reinstall-microsoft-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658",
+      "picture": "https://support.content.office.net/en-us/media/37afcb50-4ee1-4850-a5ab-5adaac941fdb.png"
+    },
+    {
+      "uuid": "aw001",
+      "name": "Activate Windows 10",
+      "text": "Guide to Activate Windows 10",
+      "type": "ActivationWindows",
+      "link": "https://support.microsoft.com/en-us/help/12440/windows-10-activate",
+      "picture": "https://windowsactivate.com/wp-content/uploads/2020/05/activate-win10.png"
+    },
+    {
+      "uuid": "aw002",
+      "name": "How to get Windows PK OEM from CMD",
+      "text": "How to Find Your Windows 10 Product Key Using the Command Prompt",
+      "type": "ActivationWindows",
+      "link": "https://www.howtogeek.com/660517/how-to-find-your-windows-10-product-key-using-the-command-prompt/",
+      "picture": "https://www.thewindowsclub.com/wp-content/uploads/2015/06/oem-key-windows-1200x675.png"
+    },
+    {
+      "uuid": "aw003",
+      "name": "Bitlocker in Windows 10",
+      "text": "How to use BitLocker Drive Encryption on Windows 10",
+      "type": "ActivationWindows",
+      "link": "https://www.windowscentral.com/how-use-bitlocker-encryption-windows-10",
+      "picture": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/w830/public/field/image/2016/06/bitlocker-password-startup.jpg?itok=0dbSOR_x"
+    },
+
+    {
+      "uuid": "ao001",
+      "name": "Activate Microsoft 365, 2019, 2016, and 2013",
+      "text": "Activate Microsoft 365, 2019, 2016, and 2013",
+      "type": "ActivationOffice",
+      "link": "https://support.microsoft.com/en-us/office/activate-office-5bd38f38-db92-448b-a982-ad170b1e187e",
+      "picture": "https://support.content.office.net/en-us/media/dcc564ff-7829-4927-9870-ccfc518da624.png"
+    }
+
+  ]
+
+
+}
